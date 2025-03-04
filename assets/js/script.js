@@ -179,6 +179,15 @@ const musicData = [
     musicPath: "Kumenanti Seorang Kekasih.mp3",
   },
   {
+    backgroundImage: "./images/Kun Anta.jpg",
+    posterUrl: "./images/Kun Anta.jpg",
+    title: "Kun Anta",
+    album: "Aseer Ahsan",
+    year: 2021,
+    artist: "Humood AlKhudher",
+    musicPath: "Kun Anta.mp3",
+  },
+  {
     backgroundImage: "./images/Lebih Dari Bintang.jpg",
     posterUrl: "./images/Lebih Dari Bintang.jpg",
     title: "Lebih Dari Bintang",
@@ -305,7 +314,7 @@ const musicData = [
     musicPath: "Salam Alaikum.mp3",
   },
   {
-    backgroundImage: "./images/Salam Rindu.jpg",
+    backgroundImage: "./images/Salam Rindu.jpg",  
     posterUrl: "./images/Salam Rindu.jpg",
     title: "Salam Rindu",
     album: "Mereka Tak Pernah Mengerti",
@@ -438,15 +447,6 @@ const musicData = [
     year: 1990,
     artist: "Iwan Fals",
     musicPath: "Yang Terlupakan.mp3",
-  },
-  {
-    backgroundImage: "./images/You Got.jpg",
-    posterUrl: "./images/You Got.jpg",
-    title: "You Got",
-    album: "You Got",
-    year: 2021,
-    artist: "BEKA",
-    musicPath: "You Got.mp3",
   },
   {
     backgroundImage: "./images/너 같은 사람 또 없어 No Other.jpg",
