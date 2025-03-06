@@ -111,7 +111,7 @@ const musicData = [
     posterUrl: "./images/Indonesia Raya - Instrumental.jpg",
     title: "Indonesia Raya - Instrumental",
     album: "Merah Putih",
-    genre: "Indonesian Pop",
+    genre: "Country",
     artist: "Wage Rudolf Soepratman",
     musicPath: "Indonesia Raya - Instrumental.mp3",
   }, 
