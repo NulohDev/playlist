@@ -112,7 +112,7 @@ const musicData = [
     title: "Indonesia Raya - Instrumental",
     album: "Merah Putih",
     genre: "Indonesian Pop",
-    artist: "Bobby Kool",
+    artist: "Wage Rudolf Soepratman",
     musicPath: "Indonesia Raya - Instrumental.mp3",
   }, 
   {
