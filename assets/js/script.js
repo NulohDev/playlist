@@ -327,7 +327,7 @@ const musicData = [
     posterUrl: "./images/Salam Rindu.jpg",
     title: "Salam Rindu",
     album: "Mereka Tak Pernah Mengerti",
-    genre: "Pop",
+    genre: "Indonesian Pop",
     artist: "Tipe-X",
     musicPath: "Salam Rindu.mp3",
   },
