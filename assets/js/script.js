@@ -242,15 +242,6 @@ const musicData = [
     musicPath: "Mawar Hitam.mp3",
   },
   {
-    backgroundImage: "./images/Menyala.jpg",
-    posterUrl: "./images/Menyala.jpg",
-    title: "Menyala",
-    album: "Menyala",
-    genre: "Indonesian Pop",
-    artist: "Bobby Kool",
-    musicPath: "Menyala.mp3",
-  }, 
-  {
     backgroundImage: "./images/My Love.jpg",
     posterUrl: "./images/My Love.jpg",
     title: "My Love",
