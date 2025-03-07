@@ -12,7 +12,7 @@ const musicData = [
     posterUrl: "./images/Allahi Allah Kiya Karo.jpg",
     title: "Allahi Allah Kiya Karo",
     album: "Thank You Allah",
-    genre: "Religious",
+    genre: "Religion",
     artist: "Maher Zain, Irfan Makki",
     musicPath: "Allahi Allah Kiya Karo.mp3",
   },
